@@ -57,8 +57,8 @@ To recreate the dataset, you will need:
 
 4. **Create a `.env` file** with your service account credentials:
    ```env
-   GEE_KEY_FILEPATH_1=path/to/key1.json
-   GEE_SERVICE_ACCOUNT_1=your-service-account@project.iam.gserviceaccount.com
+   GEE_KEY_FILEPATH=path/to/key.json
+   GEE_SERVICE_ACCOUNT=your-service-account@project.iam.gserviceaccount.com
    ```
 
    (Add additional keys `GEE_KEY_FILEPATH_2`, etc., for credential rotation if needed)
