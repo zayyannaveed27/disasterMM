@@ -1,0 +1,25 @@
+venv
+.gitignore
+__pycache__
+.DS_Store
+map.html
+/images_after_processing/
+data/label
+data
+archieved
+SentinelHubClient/secrets.yaml
+model
+results
+.ipynb_checkpoints
+
+# GEE key file
+gee_key*.json
+
+# Environment variables
+.env
+
+# compressed files
+*.tar.gz
+
+# log files
+*.log
