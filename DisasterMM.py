@@ -1,6 +1,5 @@
 '''
-File taken from https://github.com/SebastianGer/WildfireSpreadTSCreateDataset from the different wildfire modality sources
-for wildfires available on Github.
+Code based on https://github.com/SebastianGer/WildfireSpreadTSCreateDataset.
 '''
 
 import datetime
